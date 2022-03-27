@@ -1,0 +1,72 @@
+.navbar-color{
+  background-color: #B23ADC;
+}
+
+.title-card{
+  font-family: 'Hurricane', cursive;
+}
+
+.menu-font{
+  font-family: 'Lobster', cursive;
+}
+
+.text-card{
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.title-text{
+  font-family: 'Aladin', cursive;
+}
+
+.img-width{
+  width: 45px;
+}
+
+.width-img{
+  width: 100%;
+  height: 440px !important;
+}
+
+.btn-button{
+  background-color: #B23ADC !important;
+}
+
+.icon{
+  width: 25px;
+}
+
+.text-perfil{
+  font-family: 'Fira Sans', sans-serif;
+}
+.text-conteudo{
+  text-align: justify;
+  font-family: 'Noto Serif', serif;
+}
+
+.title-redessociais{
+  font-family: 'Neonderthaw', cursive;
+}
+
+li.nav-item a:hover{
+  color: rgb(241, 206, 206) !important;
+} 
+
+
+.flutuar{
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+
+.flutuar:hover, .flutuar:focus, .flutuar:active {
+  -webkit-transform: translateY(-8px);
+  transform: translateY(-8px);
+}

@@ -1,0 +1,22 @@
+.navbar-color {
+    background-color: #b23adc;
+  }
+  
+  .menu-font {
+    font-family: "Lobster", cursive;
+  }
+  
+  li.nav-item a:hover {
+    color: rgb(241, 206, 206) !important;
+  }
+
+  .img-width{
+    width: 45px;
+  }
+
+
+
+
+  .icon-width{
+    width: 40px;
+  }
